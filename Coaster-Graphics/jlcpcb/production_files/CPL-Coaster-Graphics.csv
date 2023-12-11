@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x10_Odd_Even,HRS_DF12NC_3.0_-20DP-0.5V_51_,138.789934,-58.88,0.0,bottom
+J2,Conn_02x10_Odd_Even,HRS_DF12NC_3.0_-20DP-0.5V_51_,179.79,-99.162566,0.0,bottom
+J3,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,138.789934,-126.28,90.0,top
+J4,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,138.799934,-144.06,-90.0,top

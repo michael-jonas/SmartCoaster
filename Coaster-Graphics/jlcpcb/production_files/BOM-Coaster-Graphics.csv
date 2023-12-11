@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+Conn_01x20,J3,PinHeader_1x20_P2.54mm_Vertical,
+MountingHole,H4,MountingHole_3.2mm_M3_Pad_TopBottom,
+MountingHole,H3,MountingHole_3.2mm_M3_Pad_TopBottom,
+MountingHole,H2,MountingHole_3.2mm_M3_Pad_TopBottom,
+MountingHole,H1,MountingHole_3.2mm_M3_Pad_TopBottom,
+Conn_01x20,J4,PinHeader_1x20_P2.54mm_Vertical,
+Conn_02x10_Odd_Even,J2,HRS_DF12NC_3.0_-20DP-0.5V_51_,
+Conn_02x10_Odd_Even,J1,HRS_DF12NC_3.0_-20DP-0.5V_51_,
